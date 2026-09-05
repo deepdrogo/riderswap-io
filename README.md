@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" width="100%" alt="RiderSwap — Exchange crypto without handing it to anyone."/>
 
-<br/><br/>
+<br/>
 
 <img src="assets/icon.png" width="96" alt="RiderSwap icon"/>
 
